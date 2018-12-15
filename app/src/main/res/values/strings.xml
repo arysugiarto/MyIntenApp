@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="iniMove">Ini MoveActivity</string>
+    <string name="pindah_activity_data">Pindah activity dengan Data</string>
+    <string name="data_received">Data Received</string>
+</resources>
